@@ -1,5 +1,4 @@
 # ZombieSurvivor
-Zombie Survivor
 
 Names of group members
 Emily Stratoudis, Lachlan Carlsen,
