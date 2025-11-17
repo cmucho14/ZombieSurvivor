@@ -1,6 +1,5 @@
 # ZombieSurvivor
 Zombie Survivor
-#CS583 Final Projection Zombie Survivor
 
 Names of group members
 Emily Stratoudis, Lachlan Carlsen,
